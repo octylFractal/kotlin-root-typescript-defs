@@ -1,0 +1,4 @@
+@ExperimentalJsExport
+@JsExport
+class Test {
+}
